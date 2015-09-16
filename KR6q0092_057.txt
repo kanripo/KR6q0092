@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.080324
+#+DATE: 2015-08-30 21:46:01.518018
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6q0092_T_057-0742c> 
 #+PROPERTY: JUAN 57
 ¶
-
- 宗鏡錄卷第五十七¶
+宗鏡錄卷第五十七¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -274,7 +273,7 @@
 二別。即是流注生住滅。相生住滅。是以海水¶
 得風。變作波濤之相。心水遇境。密成流注之¶
 生。前波引後波。鼓滄溟而不絕。新念續舊念。¶
-騰心海以常興。從此汩亂澄源。昏沈覺海。是¶
+騰心海以常興。從此汨亂澄源。昏沈覺海。是¶
 知因真起妄。不覺無明之動搖。如從水成波。¶
 全是外風之鼓擊。內外和合。因緣發萌。遂成¶
 能見之心。便現所觀之境。因照而俄生智鑑。¶

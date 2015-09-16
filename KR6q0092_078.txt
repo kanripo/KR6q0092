@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.762590
+#+DATE: 2015-08-30 21:46:02.191399
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6q0092_T_078-0844c> 
 #+PROPERTY: JUAN 78
 ¶
 ¶
 ¶
-
- 宗鏡錄卷第七十八¶
+宗鏡錄卷第七十八¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -547,7 +546,7 @@
 爾夢餐毒等。應成身病。此亦由其唯識有用。¶
 猶如於境。而有定屬。還將後答。用杜先疑。或¶
 復有時見其毒等。雖無實境。而有作用。由見¶
-不被蛇之所螫。然有疑毒。能令悶絕。流污心¶
+不被蛇之所蟄。然有疑毒。能令悶絕。流污心¶
 迷。若遭蛇螫。亦於夢中。由呪天等。增上力故。¶
 遂令飽食。氣力充強。又復聞乎。為求子息。事¶
 隱林人。夢見有人。共為交集。便得其子。如何¶

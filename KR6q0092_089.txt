@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:40.119637
+#+DATE: 2015-08-30 21:46:02.559796
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6q0092_T_089-0900b> 
 #+PROPERTY: JUAN 89
 ¶
-
- 宗鏡錄卷第八十九¶
+宗鏡錄卷第八十九¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -94,7 +93,7 @@
 身。所有見聞。皆是眾生心中之影像。故云心¶
 生於有心。像出於有像。則諸佛無心無身。豈¶
 有勞慮疲患者乎。復禮法師述三身義云。法¶
-身猶虛空之性。雲蒸即翳。霧斂即明。其性本常¶
+身猶虛空之性。雲蒸即翳。霧歛即明。其性本常¶
 矣。報身若乘空之日。赫矣高昇。朗然大照。其¶
 體恒在矣。化身如鑒水之影。沚清即現。流濁¶
 乃昏。顯晦不恒往來無定。夫化佛者。豈他歟。¶

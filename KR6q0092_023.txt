@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:38.003296
+#+DATE: 2015-08-30 21:46:00.397535
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6q0092_T_023-0539c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS T@QISHA
+#+PROPERTY: LASTPB <pb:KR6q0092_T_023-0539c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 23
 ¶
 ¶
-
- 宗鏡錄卷第二十三¶
+宗鏡錄卷第二十三¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -45,7 +44,7 @@
 空華。即無流轉。亦無身心受彼生死。
 
 問。即¶
-心成佛之宗。曹谿正意。見性達道之旨。靈鷲¶
+心成佛之宗。曹豁正意。見性達道之旨。靈鷲¶
 本懷。如今信不及人。謂不現證。古今悟者。請¶
 垂指南。
 

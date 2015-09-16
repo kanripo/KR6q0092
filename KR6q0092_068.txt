@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.436218
+#+DATE: 2015-08-30 21:46:01.858891
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6q0092_T_068-0797c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 68
 ¶
 ¶
-
- 宗鏡錄卷第六十八¶
+宗鏡錄卷第六十八¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -368,7 +367,7 @@
 習技藝。究極神理。能使瓦礫成寶。人畜變形。¶
 但未能馭風雲。陪仙駕。閱圖考古。更求仙法。¶
 遂得求仙方云。將欲求仙當築壇場。命一烈¶
-士。按長劍。立壇隅。屏息絕言。自昏達曙。求¶
+士。桉長劍。立壇隅。屏息絕言。自昏達曙。求¶
 仙者。壇中而坐。按長劍。誦神呪。收視返聽。¶
 達曙登仙。既得此方。數年之間求烈士不¶
 得。後遇一人。先為人傭力。艱辛五載。一旦違¶

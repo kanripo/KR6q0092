@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.783383
+#+DATE: 2015-08-30 21:46:00.187117
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6q0092_T_016-0499a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 宗鏡錄卷第十六¶
+宗鏡錄卷第十六¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -554,6 +553,5 @@
 見。慧眼方見。非肉眼所見。如是慧眼。無見無¶
 不見矣。¶
 宗鏡錄卷第十六¶
-丁未歲高麗國分司大藏都監奉勅¶
-彫造¶
+丁未歲高麗國分司大藏都監奉勅彫造¶
 

@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.162522
+#+DATE: 2015-08-30 21:46:01.609200
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6q0092_T_060-0757a> 
 #+PROPERTY: JUAN 60
 ¶
-
- 宗鏡錄卷第六十¶
+宗鏡錄卷第六十¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -27,8 +26,7 @@
 似有。二無性。三遍計所執二義。一情有。二理¶
 無。由真如不變。依他無性。所執理無。由此三¶
 義。故三性一際。又約真如隨緣。依他似有。所¶
-執情有。由此三義。亦無異也。是故真該妄求¶
-末徹真原。性相融通。無障無閡。
+執情有。由此三義。亦無異也。是故真該妄求末徹真原。性相融通。無障無閡。
 
 問。依他似有¶
 等。豈同所執是情有耶。
