@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.291209
+#+DATE: 2015-08-30 21:46:06.362455
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6q0092_T_064-0776a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 64
 ¶
 ¶
-
- 宗鏡錄卷第六十四¶
+宗鏡錄卷第六十四¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -338,7 +337,7 @@
 此怨能縛人。送到閻羅處。故知諸苦所。困¶
 貪欲為本。若貪心瞥起。為五欲之火焚燒。覺¶
 意纔生。被三界之輪繫縛。如帝釋與脩羅戰¶
-勝。造得勝堂。七寶樓觀莊嚴奇特。梁柱榰㭿¶
+勝。造得勝堂。七寶樓觀壯嚴奇特。梁柱榰[木*昂]¶
 皆容一綖。不相著而能相持。天福之妙力能¶
 如此。目連飛往。帝釋將目連看堂。諸天女皆¶
 羞目連。悉隱逃不出。目連念帝釋著樂。不修¶

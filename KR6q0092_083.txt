@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.918863
+#+DATE: 2015-08-30 21:46:07.082594
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6q0092_T_083-0872a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 83
 ¶
 ¶
 ¶
-
- 宗鏡錄卷第八十三¶
+宗鏡錄卷第八十三¶
 ¶
-慧日永明寺主智覺禪師延壽集¶
+慧日永明寺主智覺禮師延壽集¶
 
 夫真心是一字之王。般若之母。云何論說。諸¶
 佛常依二諦說法。

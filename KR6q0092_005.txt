@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.448630
+#+DATE: 2015-08-30 21:46:04.517611
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6q0092_T_005-0439a> 
 #+PROPERTY: JUAN 5
 ¶
-
- 宗鏡錄卷第五¶
+宗鏡錄卷第五¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -194,7 +193,7 @@
 死。又釋云。無始而有終。長懷懵斯理者。即法¶
 相事。而例難之。今云。有妄即真。則同無終始。¶
 若分別說。應有四句。真理則無終無始。妄念¶
-則無始有終。真智則無終有始。𧢍起妄念。有
+則無始有終。真智則無終有始。[敝/見]起妄念。有
 <pb:KR6q0092_T_005-0441a>¶
 終有始。若約圓融。同無終始。既無終始。亦復¶
 無有無終無始。唯亡言絕想。可會斯玄。詳上¶

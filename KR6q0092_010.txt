@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.612112
+#+DATE: 2015-08-30 21:46:04.673987
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6q0092_T_010-0468c> ¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 宗鏡錄卷第十¶
+宗鏡錄卷第十¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -76,7 +75,7 @@
 若隨法性。萬相都無。隨智力。眾相隨現。隱顯¶
 隨緣。都無作者。凡夫執著。用作無明。執障既¶
 無。智用自在。不離一真之境。化儀百變。是以¶
-箭穿石虎。非功力之所能。醉告三軍。豈麴糵¶
+箭穿石虎。非功力之所能。醉告三軍。豈麴蘗¶
 之所造。筍抽寒谷。非陽和之所生。魚躍氷¶
 河。豈網羅之所致。悉為心感。顯此靈通。故知¶
 萬法施為。皆自心之力耳。若或信受。具此力¶

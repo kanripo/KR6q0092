@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:38.560841
+#+DATE: 2015-08-30 21:46:05.638520
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6q0092_T_041-0655c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 41
 ¶
 ¶
-
- 宗鏡錄卷第四十一¶
+宗鏡錄卷第四十一¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -385,7 +384,7 @@
 躬敬禮。妙光城內。所有居人。靡不同時。歡喜¶
 踊躍。俱向王所。舉身投地。村營城邑。一切人¶
 眾。咸來見王。歡喜敬禮。近王所住。鳥獸之屬。¶
-互相瞻視。起慈悲心。咸向王前。恭敬禮拜。一¶
+互相贍視。起慈悲心。咸向王前。恭敬禮拜。一¶
 切山原。及諸草樹。莫不迴轉。向王敬禮。陂池¶
 泉井。及以河海。悉皆騰溢。流注王前。釋摩訶¶
 衍論云。自所作之功德。迴向三處。一者真如。¶

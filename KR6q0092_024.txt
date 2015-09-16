@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:38.036299
+#+DATE: 2015-08-30 21:46:05.106871
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6q0092_T_024-0547c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 24
 ¶
 ¶
-
- 宗鏡錄卷第二十四¶
+宗鏡錄卷第二十四¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -451,7 +450,7 @@
 以心光如佛光。開覺其心。圓照法界。華嚴疏¶
 云。因中分別法相。決了真理。無虧理事。不減¶
 佛法。故得一念悉解多門。所以放一光。總圓¶
-福智。涅槃疏云。放光照文殊者。見色知心。文¶
+福智。涅繫疏云。放光照文殊者。見色知心。文¶
 殊覩光。遂解佛意。淨名私記云。或有光明而¶
 作佛事。何故如此。體遍虛空。同於法界。畜生¶
 蟻子。有情無情。皆是佛子。此即是解脫法。即¶

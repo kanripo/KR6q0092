@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.612726
+#+DATE: 2015-08-30 21:46:06.647553
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6q0092_T_073-0822c> 
 #+PROPERTY: JUAN 73
 ¶
-
- 宗鏡錄卷第七十三¶
+宗鏡錄卷第七十三¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -247,7 +246,7 @@
 珞。莊嚴其身。主人見已。便問言。汝字何等。繫¶
 屬於誰。女人答言。我身即是功德大天。主人¶
 問言。汝所至處。為何所作。女人答言。我所¶
-至處。能與種種金銀琉璃。玻璃真珠。珊瑚琥珀。¶
+至處。能與種種金銀琉璃。玻[王*((禾*ㄉ)/木)]真珠。珊瑚琥珀。¶
 硨磲瑪瑙。象馬車乘。奴婢僕使。主人聞已。心¶
 生歡喜踊躍無量。我今福德故。令汝來。至我¶
 舍宅。即便燒香散華供養。恭敬禮拜。復於門¶

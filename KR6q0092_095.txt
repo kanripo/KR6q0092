@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:40.322693
+#+DATE: 2015-08-30 21:46:07.464206
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6q0092_T_095-0929a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 95
 ¶
 ¶
-
- 宗鏡錄卷第九十五¶
+宗鏡錄卷第九十五¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -328,7 +327,7 @@
 蛇亦隨之。無藏避處。於空澤中。見一大樹。蓊¶
 欝扶疎。甚適其意。頭戴寶瓶。攀樹而上。既上¶
 樹已。六兵乘象。馳疾如風。尋復來至。貧人見¶
-已吞王寶印。持瓶冠頭。以手覆面。生貪惜故。¶
+已吞王寶印。持瓶冠頭。以手覆而。生貪惜故。¶
 不忍見之。時六黑象。以鼻絞樹。令樹倒躄。貧
 <pb:KR6q0092_T_095-0932b>¶
 人落地。身體散壞。唯金印在。寶瓶現光。諸蛇¶

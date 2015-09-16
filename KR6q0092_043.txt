@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:38.624437
+#+DATE: 2015-08-30 21:46:05.701804
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6q0092_T_043-0667a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 43
 ¶
 ¶
-
- 宗鏡錄卷第四十三¶
+宗鏡錄卷第四十三¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -69,7 +68,7 @@
 光。如日普照。多聞之力。猶膏助明。以劣解¶
 眾生。從無始來。受無量劫洞然之苦。只為迷¶
 正信路。失妙慧門。狂亂用心。顛倒行事。何乃¶
-盲無智照。翻嫌真實慧光。貧闕法財。更祛¶
+盲無智照。翻嫌真實慧光。貧闕法財。更袪¶
 多聞寶藏。如華嚴經云。欲度眾生。令住涅槃。¶
 不離無障礙解脫智。無障礙解脫智。不離一¶
 切法如實覺。一切法如實覺。不離無行無生¶
