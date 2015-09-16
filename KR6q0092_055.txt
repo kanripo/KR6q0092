@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.027229
+#+DATE: 2015-08-30 21:45:52.430185
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6q0092_T_055-0733b> ¶¶¶¶
 #+PROPERTY: JUAN 55
 ¶
 ¶
-
- 宗鏡錄卷第五十五¶
+宗鏡錄卷第五十五¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -459,7 +458,7 @@
 
 答。不具。古釋云。八識於三界九地其有無¶
 者。欲界一地。具有八種識。色界初禪一地。只¶
-有六識。無鼻舌二識。從二禪已上。乃至無色¶
+有六識。無鼻舌二識。從二禮已上。乃至無色¶
 界已來。唯有後三識。無前五識。欲界人天鬼¶
 畜四趣。皆具八識。就地獄趣中。無間獄無前¶
 五識。唯有後三識。或兼無第六。已居極重悶¶

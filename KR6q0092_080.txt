@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.820144
+#+DATE: 2015-08-30 21:45:53.332062
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6q0092_T_080-0856b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 80
 ¶
 ¶
-
- 宗鏡錄卷第八十¶
+宗鏡錄卷第八十¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -392,7 +391,7 @@
 蕩然空寂。即體之用。則了然覺知。以無始時¶
 來迷故。於空寂之處。確然根身塵境。於覺知¶
 之處。則紛然分別緣念。故肇論云。法身隱於¶
-形㲉之中。真智隱於緣慮之內。然其形㲉緣¶
+形[穀-禾+卵]之中。真智隱於緣慮之內。然其形[穀-禾+卵]緣¶
 念。元來體空。空寂覺知。元來不變。不變之真。¶
 元來隨緣。體空之妄。元來成事。非因造作。法¶
 爾如斯。眾生身心。現今若此。即約此義。以明¶

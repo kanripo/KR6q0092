@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.570465
+#+DATE: 2015-08-30 21:45:53.068413
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6q0092_T_072-0816b> 
 #+PROPERTY: JUAN 72
 ¶
-
- 宗鏡錄卷第七十二¶
+宗鏡錄卷第七十二¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -657,7 +656,7 @@
 變。增上之果。亦因自業。故云內變。內即是本。¶
 外即是末。以唯心義。則內收外。以末攝本。若¶
 以法性為本。法性融通。緣起相由。則塵包一¶
-身。毛容剎土。故合為大大緣起。¶
+身。毛容剎土。故合為一大緣起。¶
 宗鏡錄卷第七十二¶
 
 　　　　　　戊申歲分司大藏都監開板

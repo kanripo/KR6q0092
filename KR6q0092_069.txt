@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.467983
+#+DATE: 2015-08-30 21:45:52.967915
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6q0092_T_069-0801c> ¶¶¶¶¶
 #+PROPERTY: JUAN 69
 ¶
 ¶
-
- 宗鏡錄卷第六十九¶
+宗鏡錄卷第六十九¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -314,7 +313,7 @@
 無流。若非想元寧受想習。非汝六根互用合¶
 開。此之妄想無時得滅。故汝現在見聞覺知。¶
 中。串習幾。則湛了內。罔象虛無。第五顛倒。細¶
-微精想。阿難。是五受陰。五妄想成。汝今欲¶
+微精想。阿難。是五受陰。五忘想成。汝今欲¶
 知因界淺深。唯色與空。是色邊際。唯觸及離。¶
 是受邊際。唯記與忘。是想邊際。唯滅與生。是¶
 行邊際。湛入合湛。歸識邊際。此五陰元。重疊¶

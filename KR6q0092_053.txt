@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:38.964932
+#+DATE: 2015-08-30 21:45:52.378232
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6q0092_T_053-0724b> 
 #+PROPERTY: JUAN 53
 ¶
-
- 宗鏡錄卷第五十三¶
+宗鏡錄卷第五十三¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -51,7 +50,7 @@
 識作用。觀用知體。如觀生芽。比知種體是有。¶
 所以密嚴經偈云。眼色等為緣。而得生於識。¶
 猶火因薪熾。識起亦復然。境轉隨妄心。猶鐵¶
-逐磁石。如乾城陽焰。愚渴之所取。中無能造¶
+逐[石*慈]石。如乾城陽焰。愚渴之所取。中無能造¶
 物。但隨心變異。復如乾城人。往來皆不實。眾¶
 生身亦爾。進止悉非真。亦如夢中見。寤後即¶
 非有。妄見蘊等法。覺已本寂然。四大微塵聚。¶
