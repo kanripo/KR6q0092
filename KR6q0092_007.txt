@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.516856
+#+DATE: 2015-08-30 21:45:46.216533
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6q0092_T_007-0451a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 宗鏡錄卷第七¶
+宗鏡錄卷第七¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -363,7 +362,7 @@
 一乘者。唯以佛性起於佛性。更無餘性。故說¶
 一乘。稱理說也。體同曰性。相似名種。故關中¶
 云。如稻自生稻。不生餘穀。此屬性也。萌[卄/稈]華¶
-粒。其類無差。此屬種也。二果種性。關中云。¶
+粒。其類無差。此屬種也。一果種性。關中云。¶
 佛報唯佛。其理不差。即性義也。說法度人。類¶
 皆相似。此種義也。果之種性。緣真理生。故云¶
 從緣。故釋此偈云。佛緣理生。理既無二。是故¶

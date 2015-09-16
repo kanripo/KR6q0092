@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.811980
+#+DATE: 2015-08-30 21:45:46.525777
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6q0092_T_017-0504b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 17
 ¶
 ¶
-
- 宗鏡錄卷第十七¶
+宗鏡錄卷第十七¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -156,7 +155,7 @@
 之頓呈。不見而見。猶行雲之忽現。
 
 問。如上¶
-所說。真體則湛然不動。化則不來而來。正是¶
+所說。真體則湛然不動。化相則不來而來。正是¶
 心外有他佛來迎。云何證自心是佛。
 
 答。一¶

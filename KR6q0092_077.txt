@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.731398
+#+DATE: 2015-08-30 21:45:48.512134
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6q0092_T_077-0840a> ¶¶¶¶¶
 #+PROPERTY: JUAN 77
 ¶
 ¶
-
- 宗鏡錄卷第七十七¶
+宗鏡錄卷第七十七¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -232,7 +231,7 @@
 <pb:KR6q0092_T_077-0842b>¶
 
 答。欲知有情身土。真實端由。無先我心。更¶
-無餘法。謂心法剎那。自類相續。無始時界。¶
+無餘法。謂心法剎那。自類相續。無如時界。¶
 展轉流來。不斷不常。憑緣憑對。非氣非稟。¶
 唯識唯心。肇論鈔云。老子云。無名天地始。有¶
 名萬物母。若佛教意。則以如來藏性轉變為¶
