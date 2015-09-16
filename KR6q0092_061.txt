@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.189659
+#+DATE: 2015-08-30 21:46:10.733260
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6q0092_T_061-0761b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 61
 ¶
 ¶
-
- 宗鏡錄卷第六十一¶
+宗鏡錄卷第六十一¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -161,11 +160,7 @@
 明師。執己見而罔披寶藏。故茲遍錄。以示後¶
 賢。莫踵前非。免有後悔。¶
 
-2問答章
-:PROPERTIES:
-:head: 問答章第二
-:END:
-¶
+問答章第二¶
 
 夫一心妙門。唯識正理。能變所變。內外皆通。¶
 舉一例諸收無不盡。如眾星列宿。匪離於空。¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.811980
+#+DATE: 2015-08-30 21:46:09.325435
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6q0092_T_017-0504b> ¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS T
+#+PROPERTY: LASTPB <pb:KR6q0092_T_017-0504b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 17
 ¶
 ¶
-
- 宗鏡錄卷第十七¶
+宗鏡錄卷第十七¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -292,7 +291,7 @@
 <pb:KR6q0092_T_017-0507b>¶
 薩皆隨喜。復勝上四番功德。若不修如是法。¶
 失無量重寶。人天為之憂悲。如齆人。把栴檀¶
-而不嗅。如田家子。以摩尼珠博一頭牛。故知¶
+而不嗅。如田家子。以摩尼珠搏一頭牛。故知¶
 不識自心是佛。反求他法者。背道修道。其過¶
 如是。即凡夫不達心寶。飲毒食於人天。二乘¶
 遠離家珍。求除糞之傭直。故法華經云。有智¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.541387
+#+DATE: 2015-08-30 21:46:09.067460
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6q0092_T_008-0455b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 宗鏡錄卷第八¶
+宗鏡錄卷第八¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -65,7 +64,7 @@
 量威儀。相貌不變。一切眾生。亦應如是。復次¶
 若無自體者。彼三界所攝。若出世間。善不善¶
 法。起勤方便。則空無果。以無有故。如是世¶
-間。則墮斷滅。譬如磨瑩兔角。令其銛利。終不¶
+間。則墮斷滅。譬如磨瑩免角。令其銛利。終不¶
 可得。是故偈曰。少慧見諸法。若有若無等。彼¶
 人則不見。滅見第一義。復次如寶聚經中。佛¶
 告迦葉。有者是一邊。無者是一邊。如是等彼
