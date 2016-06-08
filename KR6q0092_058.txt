@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.107996
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0092_T_058-0747c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 58
 ¶
 ¶
-
- 宗鏡錄卷第五十八¶
+宗鏡錄卷第五十八¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -474,8 +473,7 @@
 <pb:KR6q0092_T_058-0752c>¶
 次根本無明有為。有二種用。一者通用。能生¶
 一切諸染法故。二者別用。隨所至處。作礙事¶
-故。生相有為。有二種用。一者通用。於上下¶
-中與其力故。二者別用。隨所至處。作礙事故。¶
+故。生相有為。有二種用。一者通用。於上下中與其力故。二者別用。隨所至處。作礙事故。¶
 如說生相。住異亦爾。滅相有為。有二種用。一¶
 者通用。於上及自。與其力故。二者別用。能作¶
 礙事故。是名二用。以何義故。作如是說。有為¶

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.383439
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0092_T_003-0428a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 宗鏡錄卷第三¶
+宗鏡錄卷第三¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -529,7 +528,7 @@
 由淨戒。尚此三法。如飢如渴。此發無漏心。行¶
 二乘道。此上十心。或先起非心。或先起是心。¶
 或是非並起。譬象魚風。並濁池水。象譬諸非。¶
-自外而起。魚譬內觀羸弱。為二邊所動。風譬¶
+自外而起。魚譬內觀贏弱。為二邊所動。風譬¶
 內外合雜。穢濁混和。前九種心是生死。如蠶¶
 自縛。後一種心是涅槃。如麞獨跳。雖得自脫。¶
 未具佛法。俱非。故雙簡。明知三界無別理。但¶

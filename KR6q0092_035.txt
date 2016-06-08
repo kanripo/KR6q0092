@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:38.383001
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0092_T_035-0617b> ¶¶
 #+PROPERTY: JUAN 35
 ¶
 ¶
-
- 宗鏡錄卷第三十五¶
+宗鏡錄卷第三十五¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -383,7 +382,7 @@
 逐彼念。令心自知。知已內心自生想念。非一¶
 切境界有念有分別也。所謂內心自生長短¶
 好惡。是非得失。衰利有無等見。無量諸想。而¶
-一切境界。未曾有想起於分別。當知一切境¶
+　切境界。未曾有想起於分別。當知一切境¶
 界。自無分別想。故即自非長非短。非好非惡。¶
 乃至非有非無。離一切相。如是觀察一切法。¶
 唯心想生。若使離心。則無一法一相而能自¶

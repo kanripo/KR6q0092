@@ -1,22 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.309507
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0092_T_001-0415a> 
 #+PROPERTY: JUAN 1
 ¶
-No.2016¶
+No. 2016¶
 
-宗鑑錄序
-:PROPERTIES:
-:head: 宗鑑錄序
-:END:
-¶
+* 宗鑑錄序¶
 ¶
 左朝請郎尚書禮部¶
 員外郎護軍楊傑撰¶
@@ -53,11 +49,7 @@ No.2016¶
 ¶
 ¶
 
-宗鏡錄序
-:PROPERTIES:
-:head: 宗鏡錄序
-:END:
-¶
+* 宗鏡錄序¶
 ¶
 天下大元帥吳越國王俶製¶
 
@@ -77,11 +69,7 @@ No.2016¶
 ¶
 ¶
 
-宗鏡錄序
-:PROPERTIES:
-:head: 宗鏡錄序
-:END:
-¶
+* 宗鏡錄序¶
 ¶
 大宋吳越國慧日永明¶
 寺主智覺禪師延壽集¶
@@ -238,15 +226,10 @@ No.2016¶
 佛恩共傳斯旨耳。
 <pb:KR6q0092_T_001-0417b>¶
 ¶
-
- 宗鏡錄卷第一¶
+宗鏡錄卷第一¶
 ¶
 
-1標宗章
-:PROPERTIES:
-:head: 標宗章第一
-:END:
-¶
+* 標宗章第一¶
 
 詳夫。祖標禪理。傳默契之正宗。佛演教門。立¶
 詮下之大旨。則前賢所稟。後學有歸。是以先¶
@@ -485,7 +468,7 @@ No.2016¶
 梵乘。聲聞緣覺乘。諸佛如來乘。我說此諸乘。¶
 乃至有心轉。諸乘非究竟。若彼心滅盡無乘¶
 及乘者。無有乘建立。我說為一乘。引導眾生¶
-故。分別說諸乘。故先德云。一瞖在目。千華亂¶
+故。分別說諸乘。故先德云。一󰗞在目。千華亂¶
 空。一妄在心。恒沙生滅。瞖除華盡。妄滅證真。¶
 病差藥除。氷融水在。神丹九轉。點鐵成金。至¶
 理一言轉凡成聖。狂心不歇。歇即菩提。鏡淨¶

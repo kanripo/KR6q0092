@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:38.537112
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0092_T_040-0650c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 40
 ¶
 ¶
-
- 宗鏡錄卷第四十¶
+宗鏡錄卷第四十¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -184,7 +183,7 @@
 人那得喻芭蕉。龐居士偈云。識樂眾生樂。緣¶
 繩妄走作。智樂菩薩樂。無繩亦無縛。若有發¶
 心者。直須學無作。莫道怕落空。得空亦不惡。¶
-見礦不識金。入爐始知錯。黃蘗和尚云。無人¶
+見礦不識金。入爐始知錯。黃蘖和尚云。無人¶
 敢入此門。恐畏落空。盡望涯而退。證道歌云。¶
 嗟末法。惡時代。眾生薄福難調制。去聖遠兮¶
 邪見深。魔強法弱多冤害。聞說如來頓教門。¶

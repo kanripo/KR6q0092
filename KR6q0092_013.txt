@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.696064
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0092_T_013-0484a> 
 #+PROPERTY: JUAN 13
 ¶
-
- 宗鏡錄卷第十三¶
+宗鏡錄卷第十三¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -191,7 +190,7 @@
 定慧力。內外莊嚴。發起本妙覺心。真如相用。¶
 似磨古鏡。如瑩神珠。光徹十方。影透法界。無
 <pb:KR6q0092_T_013-0486a>¶
-令一小含識。不承此光。猶如善財。一生可辦。¶
+令一小含識。不承此光。猶加善財。一生可辦。¶
 又如龍女。親獻靈山。如來印可。故云我獻寶¶
 珠。世尊納受。是事疾不。答言。甚疾。女言。以¶
 汝神力。觀我成佛。復速於此。是知纔悟此法。¶

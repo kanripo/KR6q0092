@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.482451
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0092_T_006-0444c> ¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 宗鏡錄卷第六¶
+宗鏡錄卷第六¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -360,7 +359,7 @@
 滅一靈之性。性唯絕待。事有對治。遣蕩為破
 <pb:KR6q0092_T_006-0448b>¶
 執情。建立為除斷見。苦行伏諸外道。神通化¶
-彼愚癡。三昧降眾天魔。空觀祛其相縛。見苦¶
+彼愚癡。三昧降眾天魔。空觀袪其相縛。見苦¶
 斷集。為對增上慢人。證滅修真。皆成戲論之¶
 者。盡是權智。引入斯宗。則無一法可興。無一¶
 法可遣。四魔不能減。大覺不能增。旋心而義¶

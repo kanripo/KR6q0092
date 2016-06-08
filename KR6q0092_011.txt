@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.643521
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0092_T_011-0474c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 宗鏡錄卷第十一¶
+宗鏡錄卷第十一¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -370,7 +369,7 @@
 
 答。隨情說異。雖異而同。對執說同。雖同而¶
 異。將同破異。將異破同。雖同雖異。非異非¶
-同。如云捉子之矛。刺子之楯。亦如騎賊馬逐¶
+同。如云捉子之矛。剌子之楯。亦如騎賊馬逐¶
 賊。以聲止聲。所以云。朝四暮三。令眾狙而喜¶
 悅。苦塗水洗。養嬰兒以適時。皆是俯順機宜。
 <pb:KR6q0092_T_011-0478c>¶

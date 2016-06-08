@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:40.209999
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0092_T_092-0913c> 
 #+PROPERTY: JUAN 92
 ¶
-
- 宗鏡錄卷第九十二¶
+宗鏡錄卷第九十二¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -119,7 +118,7 @@
 是非之所以生。豈足以統夫幽極。而擬夫神¶
 道者乎。是以論稱出有無者。良以有無之¶
 數。止乎六境之內。六境之內。非涅槃之宅故。¶
-借出以祛之耳。庶希道之流。髣髴幽途。託情¶
+借出以袪之耳。庶希道之流。髣髴幽途。託情¶
 絕域。得意忘言。體其非有非無耳。豈曰有無¶
 之外。別有妙道而可稱哉。經曰。三無為者。蓋¶
 是群生紛擾。生于篤患。篤患之尤。莫先於有。¶

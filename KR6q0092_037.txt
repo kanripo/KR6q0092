@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:38.447268
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0092_T_037-0631b> 
 #+PROPERTY: JUAN 37
 ¶
-
- 宗鏡錄卷第三十七¶
+宗鏡錄卷第三十七¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -156,7 +155,7 @@
 問。但了
 <pb:KR6q0092_T_037-0632c>¶
 一心。能成深觀者。若無位次。皂白何分。須合¶
-教乘以祛訛濫。教觀雙辯。方契佛心。
+教乘以袪訛濫。教觀雙辯。方契佛心。
 
 答。誠¶
 如所言。闕一不可。圓教觀心。須明六即。以三¶

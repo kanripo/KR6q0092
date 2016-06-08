@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:38.204271
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0092_T_029-0582b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 29
 ¶
 ¶
-
- 宗鏡錄卷第二十九¶
+宗鏡錄卷第二十九¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -471,10 +470,10 @@
 盜汝法界中法財智寶。處三界往來。貧窮孤¶
 露之苦。
 
-問。世間染法。有貪瞋癡為所治。出¶
+間。世間染法。有貪瞋癡為所治。出¶
 世淨法。有戒定慧為能治。則真俗互顯。能所¶
 對治。行相分明。理事具足。云何但說一心之¶
-旨。能祛萬法乎。
+旨。能袪萬法乎。
 
 答。古德云。至道本乎其心。¶
 心法本乎無住。無住心體。靈知不昧。則萬法¶

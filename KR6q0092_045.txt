@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:38.691140
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0092_T_045-0678c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 45
 ¶
 ¶
-
- 宗鏡錄卷第四十五¶
+宗鏡錄卷第四十五¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -276,7 +275,7 @@
 心。從有心中說無心。有心中說無心。是末觀。¶
 無心中說無心。是本觀。眾生計有身心。說鏡¶
 像破身心。眾生著鏡像。說畢竟空破鏡像。若¶
-知鏡像畢竟空。即身心畢竟空。假名畢竟空。¶
+知境像畢竟空。即身心畢竟空。假名畢竟空。¶
 亦無畢竟空。若身心本無。佛道亦本無。一切¶
 法亦本無。本無亦本無。若知本無亦假名。假¶
 名佛道。佛道非天生。亦不從地出。直是空心¶

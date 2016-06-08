@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.056991
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0092_T_056-0737c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 56
 ¶
 ¶
-
- 宗鏡錄卷第五十六¶
+宗鏡錄卷第五十六¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -322,7 +321,7 @@
 風所動。種種諸識浪。騰躍而轉生。云何名為¶
 境界之風。其風形狀。當如何耶。謂青黃等種¶
 種顯色。能起。眼識。寶珂等珠。出現種種勝妙¶
-音聲。能起耳識。檀乳等香。熏布種種芬芳香¶
+音聲。能起耳識。檀乳等香。熏布種種芬芬香¶
 氣。能起鼻識。木羅石蜜等諸安觸著。和種種¶
 善美樂具。能起身識。甘淡等味。隨其所應出¶
 種種味。能起舌識。現在之華。未來之果。種種¶

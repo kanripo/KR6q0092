@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.843255
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2016
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0092_T_018-0510a> ¶¶¶¶¶
 #+PROPERTY: JUAN 18
 ¶
 ¶
-
- 宗鏡錄卷第十八¶
+宗鏡錄卷第十八¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
@@ -263,7 +262,7 @@
 空故。法無根本。畢竟空故。法離蓋纏。煩惱結¶
 使不可得故。法離熾然。性不生故。乃至爾時
 <pb:KR6q0092_T_018-0512c>¶
-無垢光。聞說是法。心懷歡喜。悲喜交集。雨淚。¶
+無垢光。聞說是法。心懷觀喜。悲喜交集。雨淚。¶
 叉手合掌。一心觀佛。即說偈言。快哉世尊大¶
 功德。諸天世人所歸仰。善覺一切勝妙法。稽¶
 首能斷諸苦行。又佛告文殊。過去有佛。號無¶
