@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:39.762590
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
@@ -13,7 +13,8 @@
 ¶
 ¶
 
- 宗鏡錄卷第七十八¶
+ 
+** 18宗鏡錄卷第七十八¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 

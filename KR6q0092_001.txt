@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.309507
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
@@ -12,7 +12,7 @@
 ¶
 No.2016¶
 
-宗鑑錄序
+* 宗鑑錄序
 :PROPERTIES:
 :head: 宗鑑錄序
 :END:
@@ -53,7 +53,7 @@ No.2016¶
 ¶
 ¶
 
-宗鏡錄序
+* 宗鏡錄序
 :PROPERTIES:
 :head: 宗鏡錄序
 :END:
@@ -77,7 +77,7 @@ No.2016¶
 ¶
 ¶
 
-宗鏡錄序
+* 宗鏡錄序
 :PROPERTIES:
 :head: 宗鏡錄序
 :END:
@@ -242,7 +242,8 @@ No.2016¶
  宗鏡錄卷第一¶
 ¶
 
-1標宗章
+* 1標宗章
+** 1
 :PROPERTIES:
 :head: 標宗章第一
 :END:

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:37.970328
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 宗鏡錄
 #+PROPERTY: CBETA_ID T48n2016
 #+PROPERTY: ID KR6q0092
@@ -12,7 +12,8 @@
 ¶
 ¶
 
- 宗鏡錄卷第二十二¶
+ 
+** 22宗鏡錄卷第二十二¶
 ¶
 慧日永明寺主智覺禪師延壽集¶
 
